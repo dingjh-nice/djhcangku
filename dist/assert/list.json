@@ -1,0 +1,375 @@
+{
+    "data0":[
+        {
+            "id" : "0",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[广州] 【档期调整】聚橙制作|百老汇爱情音乐轻喜剧《第一次约会》中文版-广州站",
+            "time" : "2020.12.23-2020.12.26",
+            "price" : "100-333",
+            "brief1":"广州 | 广东艺术剧院（原广东演艺中心大剧院）",
+            "brief2":"广东省广州市天河区广州大道中1229号"
+        },
+        {
+            "id" : "1",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-520",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "2",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-652",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "3",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-456",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "4",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-450",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "5",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[广州] 【档期调整】聚橙制作|百老汇爱情音乐轻喜剧《第一次约会》中文版-广州站",
+            "time" : "2020.12.23-2020.12.26",
+            "price" : "100-850",
+            "brief1":"广州 | 广东艺术剧院（原广东演艺中心大剧院）",
+            "brief2":"广东省广州市天河区广州大道中1229号"
+        },
+        {
+            "id" : "6",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-450",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "7",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-600",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "8",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-500",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "9",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-1000",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "10",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[广州] 【档期调整】聚橙制作|百老汇爱情音乐轻喜剧《第一次约会》中文版-广州站",
+            "time" : "2020.12.23-2020.12.26",
+            "price" : "100-300",
+            "brief1":"广州 | 广东艺术剧院（原广东演艺中心大剧院）",
+            "brief2":"广东省广州市天河区广州大道中1229号"
+        },
+        {
+            "id" : "11",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-999",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "12",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-900",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "13",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-560",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "14",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-360",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "15",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-450",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "16",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-850",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "17",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-360",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "18",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-250",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "19",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[广州] 【档期调整】聚橙制作|百老汇爱情音乐轻喜剧《第一次约会》中文版-广州站",
+            "time" : "2020.12.23-2020.12.26",
+            "price" : "100-850",
+            "brief1":"广州 | 广东艺术剧院（原广东演艺中心大剧院）",
+            "brief2":"广东省广州市天河区广州大道中1229号"
+
+        },
+        {
+            "id" : "20",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-800",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "21",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-380",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "22",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-500",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "23",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-900",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "24",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-750",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "25",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-500",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "26",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-1000",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "27",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[广州] 【档期调整】聚橙制作|百老汇爱情音乐轻喜剧《第一次约会》中文版-广州站",
+            "time" : "2020.12.23-2020.12.26",
+            "price" : "100-300",
+            "brief1":"广州 | 广东艺术剧院（原广东演艺中心大剧院）",
+            "brief2":"广东省广州市天河区广州大道中1229号"
+        },
+        {
+            "id" : "28",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-999",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "29",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-900",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "30",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-560",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "31",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-360",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "32",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-450",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "33",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-850",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "34",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-360",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "35",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-250",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        },
+        {
+            "id" : "36",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[广州] 【档期调整】聚橙制作|百老汇爱情音乐轻喜剧《第一次约会》中文版-广州站",
+            "time" : "2020.12.23-2020.12.26",
+            "price" : "100-850",
+            "brief1":"广州 | 广东艺术剧院（原广东演艺中心大剧院）",
+            "brief2":"广东省广州市天河区广州大道中1229号"
+
+        },
+        {
+            "id" : "37",
+            "src" : "https://image.juooo.com//group1/M00/00/0A/rBAAFF-hHViAOiQGAACaRTNmLbY260.jpg",
+            "title" : "[深圳] 【演出调整】3D科幻舞台剧《三体Ⅱ黑暗森林》-深圳站",
+            "time" : "2020.12.09-2020.12.11",
+            "price" : "180-800",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "38",
+            "src" : "https://image.juooo.com//group1/M00/03/99/rAoKmV64pmuAdCHtAAH45lri6ck840.jpg",
+            "title" : "[成都] 阿加莎悬疑推理名剧展演-话剧《谋杀启事》成都站",
+            "time" : "2020.11.08 19:30",
+            "price" : "120-380",
+            "brief1":"成都 | 成都国际剧院",
+            "brief2":"成华大道杉板桥路266号龙湖滨江天街3F"
+        },
+        {
+            "id" : "39",
+            "src" : "https://image.juooo.com//group1/M00/00/01/rBAAI19W6WeAQ5EtAANNlbD6FdU622.png",
+            "title" : "聚橙制作 | 宫崎骏经典·暖心成长音乐剧《魔女宅急便》-深圳",
+            "time" : "2020.12.05-2020.12.06",
+            "price" : "180-500",
+            "brief1":"深圳 | 南山文体中心剧院大剧院",
+            "brief2":"南山区南山大道南头街62号"
+        },
+        {
+            "id" : "40",
+            "src" : "https://image.juooo.com//group1/M00/03/4F/rAoKmV3coBSACvRgAAA_JxjLZt0032.jpg",
+            "title" : "【演出延期】聚橙出品 | 世界经典原版音乐剧《猫》CATS-西安站",
+            "time" : "2020.12.31",
+            "price" : "180-900",
+            "brief1":"西安 | 陕西大剧院-歌剧厅",
+            "brief2":"陕西省西安市雁塔区雁南一路陕西大剧院"
+        }
+    ]
+}

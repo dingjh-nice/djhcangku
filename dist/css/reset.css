@@ -1,0 +1,108 @@
+@charset "UTF-8";
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img, input, figure, figcaption {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: Arial, "Microsoft YaHei";
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+a, u {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-size: 16px;
+}
+
+b, strong {
+  font-weight: normal;
+}
+
+em, i {
+  font-style: normal;
+}
+
+img {
+  display: block;
+  border: 0;
+}
+
+fieldset {
+  border: 0;
+}
+
+input {
+  background: none;
+  border: 0;
+  outline: none;
+}
+
+textarea {
+  resize: none;
+}
+
+/* 提前封装一些类名 */
+.float_l {
+  float: left;
+}
+
+.float_r {
+  float: right;
+}
+
+.border_none {
+  border: none !important;
+}
+
+.bg_none {
+  background: none !important;
+}
+
+.clear_fix::after {
+  content: " ";
+  clear: both;
+  height: 0;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.clear_fix {
+  zoom: 1;
+}
+
+.text_ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fixed_center {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.child_center {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}

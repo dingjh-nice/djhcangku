@@ -1,0 +1,178 @@
+@charset "UTF-8";
+html, body, ol, ul, li, h1, h2, h3, h4, h5, h6, p, th, td, dl, dd, form, fieldset, legend, input, textarea, select {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "微软雅黑";
+  font-size: 16px;
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+b, strong {
+  font-weight: normal;
+}
+
+i, em {
+  font-style: normal;
+}
+
+a, u {
+  text-decoration: none;
+}
+
+img {
+  border: 0;
+  display: block;
+}
+
+body, html {
+  height: 100%;
+}
+
+input, fieldset {
+  outline: none;
+  border: 0;
+}
+
+.clear_fix:after {
+  content: ".";
+  clear: both;
+  height: 0;
+  overflow: hidden;
+  display: block;
+  visibility: hidden;
+}
+
+.clear_fix {
+  zoom: 1;
+}
+
+#app {
+  position: relative;
+  width: 540px;
+  height: 100%;
+  margin: 0 auto;
+  border-left: 1px solid #ebebeb;
+  border-right: 1px solid #ebebeb;
+  background: #fefefe;
+}
+
+.login {
+  width: 100%;
+  height: 100%;
+  min-height: 256px;
+  position: relative;
+}
+
+.head {
+  height: 63px;
+  padding-left: 21px;
+  padding-right: 21px;
+  line-height: 63px;
+  font-size: 25px;
+}
+
+.login-content img {
+  display: block;
+  width: 230px;
+  height: 72px;
+  margin: 28px auto 34px;
+}
+
+.login-pwd-input-text, .login-pwd-input-password {
+  width: 448px;
+  height: 27px;
+  padding: 26px 0;
+  border-bottom: 1px solid #ccc;
+  margin-top: 14px;
+  margin: 0 auto;
+}
+
+.login-pwd-input-text input {
+  color: #232323;
+  font-size: 28px;
+}
+
+.login-pwd-input-password input {
+  color: #232323;
+  font-size: 28px;
+}
+
+.login-pwd-btn {
+  width: 448px;
+  height: 72px;
+  line-height: 72px;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: #fefefe;
+  background: linear-gradient(50deg, #ff9a34, #ff4d4a);
+  margin: 65px auto 28px;
+}
+
+.login__cnt__pwd__btn__link {
+  width: 448px;
+  height: 29px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.login__cnt__pwd__btn__link--pwd, .login__cnt__pwd__btn__link--code {
+  color: #666;
+  font-size: 26px;
+}
+
+.login__foot {
+  width: 338px;
+  height: 101px;
+  position: absolute;
+  left: 100px;
+  right: 100px;
+  bottom: 43px;
+  border-top: 1px solid #999999;
+}
+
+.login__foot__title {
+  position: relative;
+}
+
+.login__foot__title span {
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  top: -18px;
+  margin-left: -72px;
+  width: 144px;
+  height: 36px;
+  line-height: 36px;
+  color: #999999;
+  text-align: center;
+  font-size: 12px;
+  background-color: #fefefe;
+}
+
+.login__foot__list img {
+  width: 50px;
+  height: 50px;
+}
+
+.login__foot__list img:nth-child(1) {
+  position: absolute;
+  left: 60px;
+}
+
+.login__foot__list img:nth-child(2) {
+  position: absolute;
+  right: 60px;
+}

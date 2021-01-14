@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>详情页功能</title>
+    <link rel="stylesheet" href="./css/detail_function.css">
+    <link rel="stylesheet" href="./css/reset.css">
+</head>
+<body>
+    <script src="./javascripts/jQuery.js"></script>
+<!-- 详情 -->
+<div id="detail">
+    <div class="detail-cont">
+        <div class="detail_box">
+            <!-- 放大镜模块  右边-->
+            <div class="magnifier-container">
+                <!-- 大图部分 -->
+                <div class="big-img">
+                      <img src="./assert/images/fangdajing/2.jpg" alt="">
+                </div>
+                <!-- 小图部分 -->
+                <div class="small-img">
+                      <img src="./assert/images/fangdajing/1.jpg" alt="">
+                      <div class="focus"></div>
+                      <div class="tiemo"></div>
+                </div>
+                <!-- 按钮图片部分 -->
+                <div class="button-img">
+                      <!-- 数据存在了元素之中 -->
+                      <div class="img-bbox"  data-small="./assert/images/fangdajing/1.jpg" data-big="./assert/images/fangdajing/2.jpg">
+                            <img src="./assert/images/fangdajing/3.jpg" alt="">
+                      </div>
+                      <div class="img-bbox" data-small="./assert/images/fangdajing/4.jpg" data-big="./assert/images/fangdajing/5.jpg">
+                        <img src="./assert/images/fangdajing/6.jpg" alt="">
+                  </div>
+                      
+                </div>
+          </div>
+            
+        </div>  
+        
+        
+
+        <div class="detail_right">
+            <p class="detail_tit">2020.11.08&nbsp;&nbsp;周日&nbsp;&nbsp;19：30 <i class="iconfont icon-jianjiaohao-r datile_ii"></i></p>
+             
+            <p class="detail_pp"> 南平 | 武夷文化艺术中心（南平大剧院）大剧场</p>
+
+            <div class="detail_city">福建省南平市建阳区武夷新区文化中心(南林大道北)
+               <div class="detail_d"> <em class="iconfont icon-dingwei1 datile_position"></em></div>
+            </div>
+
+            <ul>
+                <li><a href="">可选座</a> </li>
+                <li><a href="">电子票</a></li>
+                <li><a href="">套票优惠</a></li>
+            </ul>
+
+            <div class="detail_btn">选座购买</div>
+        </div>
+    </div>
+</div>
+
+
+<!-- buy -->
+
+<div id="buy">
+    <div class="buy-cont">
+        <span class="sp-btn">x</span>
+        <div class="buy_l">
+            
+            <p>选择日期</p>
+            <ul class="buy_date">
+                <li class="active">2020.12.09 周三</li>
+                <li>2020.12.10 周四</li>
+                <li>2020.12.11 周五</li>
+            </ul>
+
+            <p>选择场次</p>
+            <ul class="buy_count">
+                <li class="active">14 : 00</li>
+                <li class="active">17 : 00</li>
+                <li class="active">20 : 00</li>
+                <li class="active">22 : 00</li>
+            </ul>
+            <p>选择价格</p>
+            <ul class="price">
+                <li>180元</li>
+                <li>380元</li>
+                <li>480元</li>  
+                <li>680元</li>  
+                <li>880元</li>
+            </ul>
+
+        </div>
+        <div class="buy_r">
+            <div class="buy_box"><img src="./assert/images/ma.png" alt=""></div>
+           
+            <div class="buy_btn">选座购买</div>
+
+        </div>
+    </div>
+</div>
+<script src="./javascripts/detail_funciion.js"></script>
+</body>
+</html>
